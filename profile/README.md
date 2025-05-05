@@ -30,21 +30,21 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/abirxdhack/SmartUtilBot">
+        <a href="https://github.com/TheSmartDevs/SmartUtilBot">
           <img src="https://img.shields.io/badge/SmartUtilBot-1.0-blue?style=for-the-badge" alt="SmartUtilBot">
           <br>
           <sub>🤖 Advanced Telegram Bot</sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/abirxdhack/SmartUtilDocs">
+        <a href="https://github.com/TheSmartDevs/SmartUtilDocs">
           <img src="https://img.shields.io/badge/SmartUtilDocs-2.1-green?style=for-the-badge" alt="SmartUtilDocs">
           <br>
           <sub>📚 Comprehensive Documentation</sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/abirxdhack/SmartDevStats">
+        <a href="https://github.com/TheSmartDevs/SmartDevStats">
           <img src="https://img.shields.io/badge/SmartDevStats-3.2-purple?style=for-the-badge" alt="SmartDevStats">
           <br>
           <sub>📊 GitHub Analytics Tool</sub>
@@ -53,21 +53,21 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/abirxdhack/SmartAI">
+        <a href="https://github.com/TheSmartDevs/SmartAI">
           <img src="https://img.shields.io/badge/SmartAI-2.0-red?style=for-the-badge" alt="SmartAI">
           <br>
           <sub>🧠 AI-Powered Tools</sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/abirxdhack/Insta-Scrapper-API">
+        <a href="https://github.com/TheSmartDevs/Insta-Scrapper-API">
           <img src="https://img.shields.io/badge/Insta_Scrapper-1.5-orange?style=for-the-badge" alt="Insta-Scrapper-API">
           <br>
           <sub>📸 Instagram Data API</sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/abirxdhack/FacebookAPI">
+        <a href="https://github.com/TheSmartDevs/FacebookAPI">
           <img src="https://img.shields.io/badge/Facebook-1.0-yellow?style=for-the-badge" alt="DataMiningTools">
           <br>
           <sub>Facebook DL API </sub>
@@ -77,7 +77,7 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
   </table>
 </div>
 
-### **1. [SmartUtilBot](https://github.com/abirxdhack/SmartUtilBot)** 
+### **1. [SmartUtilBot](https://github.com/TheSmartDevs/SmartUtilBot)** 
 > A powerful Telegram bot for productivity and automation.
 - 🤖 Automate repetitive tasks with smart workflows
 - 🌐 Manage notifications and alerts across platforms
@@ -85,7 +85,7 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
 - 📱 Cross-platform compatibility
 - 🔐 Enterprise-grade security protocols
 
-### **2. [SmartUtilDocs](https://github.com/abirxdhack/SmartUtilDocs)** 
+### **2. [SmartUtilDocs](https://github.com/TheSmartDevs/SmartUtilDocs)** 
 > Comprehensive documentation for Smart Dev tools and projects.
 - 📚 Developer-friendly guides with step-by-step instructions
 - 🛠️ Interactive code examples and sandboxes
@@ -93,7 +93,7 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
 - 🖥️ Responsive design optimized for all devices
 - 🔄 Continuously updated with latest features
 
-### **3. [SmartDevStats](https://github.com/abirxdhack/SmartDevStats)** 
+### **3. [SmartDevStats](https://github.com/TheSmartDevs/SmartDevStats)** 
 > A GitHub stats analytics tool for developers.
 - 📊 Advanced visualization of repository performance
 - 📈 Predictive analytics for repository growth trends
@@ -101,7 +101,7 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
 - 📑 Exportable reports in multiple formats
 - 🔄 Real-time data synchronization
 
-### **4. [SmartAI](https://github.com/abirxdhack/SmartAI)**
+### **4. [SmartAI](https://github.com/TheSmartDevs/SmartAI)**
 > AI-powered tools for enhanced productivity and creativity.
 - 🧠 State-of-the-art machine learning algorithms
 - 🚀 Optimized for both CPU and GPU processing
@@ -109,7 +109,7 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
 - 🎯 Specialized for data-driven decision making
 - 🔄 Self-improving models with continuous learning
 
-### **5. [Insta-Scrapper-API](https://github.com/abirxdhack/Insta-Scrapper-API)** 
+### **5. [Insta-Scrapper-API](https://github.com/TheSmartDevs/Insta-Scrapper-API)** 
 > API for scraping Instagram data efficiently.
 - 📸 Extract comprehensive Instagram metrics and insights
 - 🔍 Advanced filtering and search capabilities
@@ -117,7 +117,7 @@ Smart Dev is a forward-thinking organization dedicated to delivering intelligent
 - 📦 Modular design for easy integration
 - 🚀 High-performance, scalable architecture
 
-### **6. [YouTubeDLBot](https://github.com/abirxdhack/YouTubeDLBot)** 
+### **6. [YouTubeDLBot](https://github.com/TheSmartDevs/YouTubeDLBot)** 
 > Cloud infrastructure automation tools.
 - ☁️ SuperFast YouTube Downloader
 - 🔄 Infrastructure as Code (IaC) templates
